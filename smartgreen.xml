@@ -5,8 +5,8 @@
         <about>A framework to plan and test green infrastructure development.</about>
         <qgis_minimum_version>2.14</qgis_minimum_version>
         <author_name>Enrico Antonio Chiaradia</author_name>
-        <download_url>https://github.com/SMARTGREENplugin/release/SMARTGREEN_20180514</download_url>
-        <file_name>SMARTGREEN_20180514</file_name>    
+        <download_url>https://github.com/SMARTGREENplugin/release/SMARTGREEN.0.1.zip</download_url>
+        <file_name>SMARTGREEN.0.1.zip</file_name>    
         <icon>icons/smartgreen.png</icon>    
         <tags>water, hydraulic, model, hydrology, urban drainage</tags>       
         <homepage>https://github.com/SMARTGREENplugin/code/wiki</homepage>
